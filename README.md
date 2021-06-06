@@ -3,6 +3,7 @@ For this project I wanted to learn the basics of Dart before moving on to mobile
 off of Dungeons and Dragons, which uses all the basic programming constructs, data structures, object classes, and class inheritance. The game itself is not yet 
 finished, but at this point the user can create a character, and view the character's stats and items. These classes I created will eventually be implemented in
 an adventure where the player can buy and sell items at a merchant shop, and take on contracts to combat monsters. 
+
 [Software Demo Video](https://youtu.be/dH3XuQ4yxhI)
 
 # Development Environment
@@ -10,8 +11,6 @@ an adventure where the player can buy and sell items at a merchant shop, and tak
 I used Visual studio code as my IDE, and the program is written in Dart.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Tutorials Point](https://www.tutorialspoint.com/dart_programming)
 * [Geeks for Geeks](https://www.geeksforgeeks.org/)
 * [Official Dart Documentation](https://dart.dev/guides/language/language-tour)
